@@ -6,7 +6,7 @@ state: publish
 ---
 Test-Text for testing.
 
-Although the auto commits are pretty.
+Although the commits are pretty.
 
 I only wish other changes would save too
 

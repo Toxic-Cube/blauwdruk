@@ -6,7 +6,9 @@ state: publish
 ---
 Test-Text for testing.
 
-Although the auto commits are pretty nice.
+Although the auto commits are pretty.
+
+I only wish ohter changes would save too
 
 
 Titel van bestand is als volgt: DATUM-Titel.md

@@ -6,7 +6,7 @@ state: publish
 ---
 Test-Text for testing.
 
-Allright I
+Allright I think we've got it now
 
 
 Titel van bestand is als volgt: DATUM-Titel.md

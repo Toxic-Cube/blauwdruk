@@ -8,7 +8,7 @@ Test-Text for testing.
 
 Although the auto commits are pretty.
 
-I only wish ohter changes would save too
+I only wish other changes would save too
 
 
 Titel van bestand is als volgt: DATUM-Titel.md

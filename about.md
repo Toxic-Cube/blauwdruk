@@ -5,4 +5,4 @@ permalink: /about/
 content-type: eg
 ---
 
-De Ivoren Toren is een verzamelplaats voor onze schrijfsels.
+Deze tool is een overzicht van opties die gebruikt kunnen worden voor de ontwikkeling van een lespakket rond een Mediawijs thema.

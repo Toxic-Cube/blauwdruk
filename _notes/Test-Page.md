@@ -2,7 +2,7 @@
 title: Test-Page
 tags: [Tag1, Tag2]
 toc: true
-state: unpublished
+state: publish
 ---
 
 Test-Text for testing.

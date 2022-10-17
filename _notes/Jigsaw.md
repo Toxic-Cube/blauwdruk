@@ -35,5 +35,7 @@ Zie ook Team Game Tournaments.
 ### Voorbeelden
 - [Edubox AI p.8](https://assets.mediawijs.be/2021-06/edubox_ai_versie_2021.pdf)
 
+## Bronnen
+
 [^1]: [Jigsaw groups and the desegregated classroom](https://journals.sagepub.com/doi/abs/10.1177/014616727900500405?journalCode=pspc)
 [^2]: [Coöperative learning in middle and secondary schools](https://www.jstor.org/stable/30189163)

@@ -1,6 +1,6 @@
 ---
 title: Test-Page
-tags: [Tag1, Tag2]
+tags:
 toc: true
 state: unpublished
 ---

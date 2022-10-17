@@ -29,7 +29,7 @@ Opnieuw bespreken de leerlingen hun onderwerp in aparte expertgroepjes met alle 
 
 Leerlingen nemen tenslotte een individuele quiz. Gebaseerd hierop ontvangt hun team een score.
 
-Zie ook Team Game Tournaments
+Zie ook Team Game Tournaments. 
 
 ## Jigsaw light
 2 à 6 jongeren, elk informeert zich kort over een onderwerp. Vervolgens leggen de leerlingen aan elkaar uit (in eigen woorden) wat ze geleerd hebben over het onderwerp.

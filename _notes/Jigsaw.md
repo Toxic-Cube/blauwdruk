@@ -23,6 +23,15 @@ Jigsaw is uitermate geschikt om te werken rond diversiteit. Onderzoek suggereert
 ## Jigsaw II
 Deze variant voegt een competitief element toe tussen de groepjes.
 
+Hierbij wordt het materiaal niet opgedeeld, maar behandelt elk groepje hetzelfde materiaal. Elke leerling in het groepje heeft echter een bepaalde onderwerp waarin deze expert moet worden.
+- Bijvoorbeeld: De leerlingen lezen een hoofdstuk van een boek over klimaatopwarming. De onderwerpen die verdeeld worden aan de leerlingen zijn "Oorsprong", "Manieren om klimaatopwarming tegen te gaan", "Wijzigingen in levenstijl" en "Klimaatontkenning".
+Opnieuw bespreken de leerlingen hun onderwerp in aparte expertgroepjes met alle leerlingen die hetzelfde onderwerp hadden. Vervolgens keren ze terug naar hun groepjes om hun uit te leggen wat ze geleerd hebben over hun onderwerp.
 
+Leerlingen nemen tenslotte een individuele quiz. Gebaseerd hierop ontvangt hun team een score.
+
+Zie ook Team Game Tournaments
 
 ## Jigsaw light
+2 à 6 jongeren, elk informeert zich kort over een onderwerp. Vervolgens leggen de leerlingen aan elkaar uit (in eigen woorden) wat ze geleerd hebben over het onderwerp.
+### Voorbeelden
+- [Edubox AI p.8](https://assets.mediawijs.be/2021-06/edubox_ai_versie_2021.pdf)

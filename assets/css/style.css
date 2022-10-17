@@ -1397,7 +1397,7 @@ label.margin-toggle:not(.sidenote-number) {
 }
 
 [id] > a {
-    display: none;
+    display: true;
 }
 [id]:hover > a {
     display: inline;
